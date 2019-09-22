@@ -12,8 +12,9 @@ Foram utilizadas as funções mais básicas do jQuery para demonstrar o funciona
 
 
 ### Funções utilizadas:
+
 |  Função | Descrição  |
-|--|--|--|
+|--|--|
 | **parent** | encontra o elemento imediatamente superior ao atual na hierarquia do DOM |
 | **find** | encontra elementos dentro de um determinado escopo |
 | **val** | obtém o valor digitado pelo usuário em um input ou atribui um valor |
